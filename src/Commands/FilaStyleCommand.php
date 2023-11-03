@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Valpuia\FilaStyle\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilaStyleCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'fila-style';
 
     public $description = 'My command';
 
